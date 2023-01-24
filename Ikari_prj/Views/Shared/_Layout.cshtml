@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/mdi/materialdesignicons.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/dx.dark.css" asp-append-version="true" />
+</head>
+<body>
+    <div id="baseApp">
+        <header>
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                <div class="container-fluid">
+                    <a v-if="homeVisible" class="navbar-brand" asp-area="" asp-controller="Home" asp-action="GetPage"><span class="mdi mdi-home-outline">Home</span></a>
+                    <a v-if="shopVisible" class="navbar-brand" asp-area="" asp-controller="Shop" asp-action="GetPage"><span class="mdi mdi-blur">Shop</span></a>
+                    <a v-if="communityVisible" class="navbar-brand" asp-area="" asp-controller="Community" asp-action="GetPage"><span class="mdi mdi-human-greeting-proximity">Community</span></a>
+                    <a v-if="profileVisible" class="navbar-brand" asp-area="" asp-controller="UserProfile" asp-action="GetPage"><span class="mdi mdi-account-box-outline">Profile</span></a>
+                    <a v-if="historyVisible" class="navbar-brand" asp-area="" asp-controller="History" asp-action="GetPage"><span class="mdi mdi-account-box-outline">History</span></a>
+                    <a v-if="profileVisible" class="navbar-brand" asp-area="" asp-controller="UserProfile" asp-action="Logout"><span class="mdi mdi-home-outline">Log out</span></a>
+                </div>
+            </nav>
+        </header>
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+        <footer class="border-top footer text-muted">
+            <div class="container text-center">
+                Ikari project ^_^
+            </div>
+        </footer>
+    </div>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/js/dx/dx.all.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/vue/vue.global.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

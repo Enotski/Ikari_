@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="row justify-content-center">
+    <div class="col-4 shadow-lg p-3 mb-5 bg-body rounded align-middle">
+        <form>
+            <div v-if="showRegistration" class="mb-3">
+                <label for="emailInput" class="form-label">Почта</label>
+                <input type="email" class="form-control" name="email" id="emailInput">
+            </div>
+            <div class="mb-3">
+                <label for="loginInput" class="form-label">Логин</label>
+                <input type="text" class="form-control" name="name" id="loginInput">
+            </div>
+            <div class="mb-3">
+                <label for="passInput" class="form-label">Пароль</label>
+                <input type="password" class="form-control" name="password" id="passInput">
+            </div>
+            <div class="d-flex flex-row justify-content-between">
+                <button v-if="!showRegistration" type="submit" value="Login" formaction="Login" class="btn btn-primary">Войти</button>
+                <button v-if="showRegistration" type="submit" value="Register" formaction="Register" class="btn btn-primary">Зарегистрироваться</button>
+                <button v-if="!showRegistration" v-on:click="changeForm" class="btn btn-danger">У меня нет аккаунта</button>
+                <button v-if="showRegistration" v-on:click="changeForm" class="btn btn-danger">У меня eсть аккаунт</button>
+            </div>
+        </form>
+    </div>
+</div>
