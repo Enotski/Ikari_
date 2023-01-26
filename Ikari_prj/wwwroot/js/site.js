@@ -14,6 +14,7 @@
 		}
 	});
 }
+import  Notifications  from "@kyvg/vue3-notification";
 const BaseApp = {
 	data() {
 		return {
@@ -34,6 +35,10 @@ const BaseApp = {
 	},
 	mounted() {
 		this.getUserInfo();
+
+		notify({
+			title: "Vue 3 notification 🎉",
+		})
 	},
 	methods: {
 		getUserInfo: function () {
@@ -61,4 +66,4 @@ const BaseApp = {
 	}
 }
 
-Vue.createApp(BaseApp).mount('#baseApp')
+Vue.createApp(BaseApp).use(Notifications).mount('#baseApp')

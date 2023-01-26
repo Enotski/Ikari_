@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Ikari.Data.Models.ViewModels.UserProfile {
+    /// <summary>
+    /// вью-модель юзера
+    /// </summary>
     public class UserViewModel : IKey {
         public Guid Id { get; set; }
         public string Email { get; set; }

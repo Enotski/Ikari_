@@ -5,10 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ikari.Data.Models.Entities.UserProfile
-{
-    public class Role: IKey
-    {
+namespace Ikari.Data.Models.Entities.UserProfile {
+    /// <summary>
+    /// Роль юзера
+    /// </summary>
+    public class Role : IKey {
         public Guid Id { get; set; }
         public string Name { get; set; } = null!;
         public List<User> Users { get; set; }

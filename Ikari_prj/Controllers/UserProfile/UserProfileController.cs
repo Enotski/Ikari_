@@ -10,6 +10,10 @@ using Ikari.Data.Models.ViewModels.UserProfile;
 using Ikari.Data.Abstraction;
 
 namespace Ikari.Controllers.UserProfile {
+
+    /// <summary>
+    /// Контроллер профиля пользователя
+    /// </summary>
     public class UserProfileController : BaseController {
         readonly UserProfileRepository _userRepo;
         public UserProfileController(IkariDbContext context) : base("~/Views/UserProfile/UserProfileView.cshtml") {

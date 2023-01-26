@@ -5,6 +5,9 @@ using System.Diagnostics;
 
 namespace Ikari.Controllers.Home
 {
+    /// <summary>
+    /// Контроллер домашней страницы
+    /// </summary>
     public class HomeController : BaseController
     {
         private readonly ILogger<HomeController> _logger;

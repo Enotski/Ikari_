@@ -7,6 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Ikari.Data.Models.Entities.UserProfile {
+    /// <summary>
+    /// Его превосходительство юзер
+    /// </summary>
     public class User : IKey {
         public Guid Id { get; set; }
         public string Email { get; set; }

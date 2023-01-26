@@ -7,6 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Ikari.Data.Abstraction.Repositories {
+    /// <summary>
+    /// Репозиторий магазина
+    /// </summary>
     public class ShopRepository : BaseRepository {
         public ShopRepository(IkariDbContext context) : base(context) {
         }

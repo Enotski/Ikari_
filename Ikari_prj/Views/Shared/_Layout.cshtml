@@ -29,17 +29,14 @@
                 @RenderBody()
             </main>
         </div>
-        <footer class="border-top footer text-muted">
-            <div class="container text-center">
-                Ikari project ^_^
-            </div>
-        </footer>
     </div>
     <script src="~/lib/jquery/jquery.min.js"></script>
     <script src="~/lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js"></script>
     <script src="~/js/dx/dx.all.js"></script>
     <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="~/lib/vue/vue.global.min.js"></script>
+    <script type="module" src="~/lib/vue3-notification/dist/index.esm.min.js" asp-append-version="true"></script>
+    <script type="module" src="~/lib/vue3-notification/dist/index.common.min.js" asp-append-version="true"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

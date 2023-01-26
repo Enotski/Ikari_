@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Ikari.Data.Models.Enums {
+    /// <summary>
+    /// Тип меча
+    /// </summary>
     public enum SwordType {
         Ice,
         Water,

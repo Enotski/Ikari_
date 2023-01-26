@@ -15,6 +15,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Ikari.Data.Abstraction.Repositories {
+    /// <summary>
+    /// Репозиторий провиля пользователя
+    /// </summary>
     public class UserProfileRepository : BaseRepository {
         public UserProfileRepository(IkariDbContext context) : base(context) {
         }

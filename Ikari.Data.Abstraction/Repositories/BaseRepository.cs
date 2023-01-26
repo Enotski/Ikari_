@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace Ikari.Data.Abstraction.Repositories
 {
+    /// <summary>
+    /// Базовый репозиторий
+    /// </summary>
     public class BaseRepository {
         protected IkariDbContext DbContext { get; set; }
 

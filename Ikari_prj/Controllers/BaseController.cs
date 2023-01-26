@@ -8,6 +8,9 @@ using System.Security.Claims;
 
 namespace Ikari.Controllers
 {
+    /// <summary>
+    /// Базовый контроллер
+    /// </summary>
     public class BaseController : Controller {
         protected readonly string _path;
         public static UserViewModel? CurrentUser { get; set; }
