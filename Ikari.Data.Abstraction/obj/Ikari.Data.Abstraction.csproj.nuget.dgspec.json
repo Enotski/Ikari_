@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\WorkShop\\ikari\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj": {}
+    "B:\\WorkShop\\Ikari_\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj": {}
   },
   "projects": {
-    "B:\\WorkShop\\ikari\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj": {
+    "B:\\WorkShop\\Ikari_\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\WorkShop\\ikari\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
+        "projectUniqueName": "B:\\WorkShop\\Ikari_\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
         "projectName": "Ikari.Data.Abstraction",
-        "projectPath": "B:\\WorkShop\\ikari\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
+        "projectPath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
         "packagesPath": "C:\\Users\\zabig\\.nuget\\packages\\",
-        "outputPath": "B:\\WorkShop\\ikari\\Ikari.Data.Abstraction\\obj\\",
+        "outputPath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "B:\\WorkShop\\ikari\\Ikari.Data.Models\\Ikari.Data.Models.csproj": {
-                "projectPath": "B:\\WorkShop\\ikari\\Ikari.Data.Models\\Ikari.Data.Models.csproj"
+              "B:\\WorkShop\\Ikari_\\Ikari.Data.Models\\Ikari.Data.Models.csproj": {
+                "projectPath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Models\\Ikari.Data.Models.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "B:\\WorkShop\\ikari\\Ikari.Data.Models\\Ikari.Data.Models.csproj": {
+    "B:\\WorkShop\\Ikari_\\Ikari.Data.Models\\Ikari.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\WorkShop\\ikari\\Ikari.Data.Models\\Ikari.Data.Models.csproj",
+        "projectUniqueName": "B:\\WorkShop\\Ikari_\\Ikari.Data.Models\\Ikari.Data.Models.csproj",
         "projectName": "Ikari.Data.Models",
-        "projectPath": "B:\\WorkShop\\ikari\\Ikari.Data.Models\\Ikari.Data.Models.csproj",
+        "projectPath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Models\\Ikari.Data.Models.csproj",
         "packagesPath": "C:\\Users\\zabig\\.nuget\\packages\\",
-        "outputPath": "B:\\WorkShop\\ikari\\Ikari.Data.Models\\obj\\",
+        "outputPath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

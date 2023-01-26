@@ -56,7 +56,7 @@ namespace Ikari.Controllers.UserProfile {
         }
         [HttpPost]
         public IActionResult GetUserInfo() {
-            if (CurrentUser == null) {
+            if (CurrentUser == null || CurrentUser.Id == Guid.Empty) {
                 var userKey = HttpContext.User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier)?.Value;
                 var parsed = Guid.TryParse(userKey, out Guid userId);
                 if (parsed && userId != Guid.Empty) {

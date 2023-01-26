@@ -18,17 +18,17 @@ namespace Ikari {
                     options.LogoutPath = new PathString("/UserProfile/Logout");
                 });
             builder.Services.AddAuthorization();
-
             builder.Services.AddControllersWithViews().AddJsonOptions(options => {
                 options.JsonSerializerOptions.WriteIndented = true;
-            });
+            }).AddRazorRuntimeCompilation();
             builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             builder.Services.AddDbContext<IkariDbContext>(options => {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
-
+            builder.WebHost.UseContentRoot(Directory.GetCurrentDirectory());
+            builder.WebHost.UseIISIntegration();
             var app = builder.Build();
-
+            
             if (!app.Environment.IsDevelopment()) {
                 app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();

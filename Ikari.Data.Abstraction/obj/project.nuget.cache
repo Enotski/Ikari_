@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3IptLMQlcnWxA0IE5hC5fQAqLycW9+wukpyC4UIYg/2vaVYgfC7n8DZl/rkMdAku4SU/gB6EF0yKD5yM0C1UrA==",
+  "dgSpecHash": "1FumHWxvUzWRUygmSEdSkDgUkwJhz2NN9xRUdk+er7kHV5KZ9VPczScF03YSw6rtOUQ4nGxejKtVMK+T1swyjQ==",
   "success": true,
-  "projectFilePath": "B:\\WorkShop\\ikari\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
+  "projectFilePath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zabig\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\zabig\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

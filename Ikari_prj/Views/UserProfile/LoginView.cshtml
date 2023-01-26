@@ -13,11 +13,11 @@
                 <input type="text" class="form-control" name="name" id="loginInput">
             </div>
             <div class="mb-3">
-                <label for="passInput" class="form-label">Пароль</label>
+                <label for="passInput" class="form-label">Пd awароль</label>
                 <input type="password" class="form-control" name="password" id="passInput">
             </div>
             <div class="d-flex flex-row justify-content-between">
-                <button v-if="!showRegistration" type="submit" value="Login" formaction="Login" class="btn btn-primary">Войти</button>
+                <button v-if="!showRegistration" type="submit" value="Login" formaction="Login" class="btn btn-info">Войти</button>
                 <button v-if="showRegistration" type="submit" value="Register" formaction="Register" class="btn btn-primary">Зарегистрироваться</button>
                 <button v-if="!showRegistration" v-on:click="changeForm" class="btn btn-danger">У меня нет аккаунта</button>
                 <button v-if="showRegistration" v-on:click="changeForm" class="btn btn-danger">У меня eсть аккаунт</button>

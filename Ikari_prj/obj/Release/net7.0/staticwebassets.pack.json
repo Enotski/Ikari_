@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\dx.dark.css",
+      "PackagePath": "staticwebassets\\css\\dx.dark.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\dx.light.css",
+      "PackagePath": "staticwebassets\\css\\dx.light.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\icons\\dxicons.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\dxicons.ttf"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\icons\\dxicons.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\dxicons.woff"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\icons\\dxicons.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\dxicons.woff2"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\mdi\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\css\\mdi\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\mdi\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\css\\mdi\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\js\\dx\\dx.all.js",
+      "PackagePath": "staticwebassets\\js\\dx\\dx.all.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\js\\shopPage.js",
+      "PackagePath": "staticwebassets\\js\\shopPage.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\additional-methods.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery-validate\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\additional-methods.min.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery.validate.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\vue\\vue.cjs.js",
+      "PackagePath": "staticwebassets\\lib\\vue\\vue.cjs.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\vue\\vue.global.js",
+      "PackagePath": "staticwebassets\\lib\\vue\\vue.global.js"
+    },
+    {
+      "Id": "B:\\WorkShop\\Ikari_\\Ikari_prj\\wwwroot\\lib\\vue\\vue.global.min.js",
+      "PackagePath": "staticwebassets\\lib\\vue\\vue.global.min.js"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Ikari.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Ikari.props",
+      "PackagePath": "build\\Ikari.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Ikari.props",
+      "PackagePath": "buildMultiTargeting\\Ikari.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Ikari.props",
+      "PackagePath": "buildTransitive\\Ikari.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

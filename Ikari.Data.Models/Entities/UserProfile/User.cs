@@ -14,7 +14,7 @@ namespace Ikari.Data.Models.Entities.UserProfile {
         public string Password { get; set; }
         public Guid? RoleId { get; set; }
         public Role? Role { get; set; }
-        public decimal Balance { get; set; }
+        //public decimal Balance { get; set; }
         public List<Armour> Armours { get; set; }
         public List<Sword> Swords { get; set; }
     }

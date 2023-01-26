@@ -9827,11 +9827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\WorkShop\\ikari\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
+      "projectUniqueName": "B:\\WorkShop\\Ikari_\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
       "projectName": "Ikari.Data.Abstraction",
-      "projectPath": "B:\\WorkShop\\ikari\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
+      "projectPath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Abstraction\\Ikari.Data.Abstraction.csproj",
       "packagesPath": "C:\\Users\\zabig\\.nuget\\packages\\",
-      "outputPath": "B:\\WorkShop\\ikari\\Ikari.Data.Abstraction\\obj\\",
+      "outputPath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9853,8 +9853,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "B:\\WorkShop\\ikari\\Ikari.Data.Models\\Ikari.Data.Models.csproj": {
-              "projectPath": "B:\\WorkShop\\ikari\\Ikari.Data.Models\\Ikari.Data.Models.csproj"
+            "B:\\WorkShop\\Ikari_\\Ikari.Data.Models\\Ikari.Data.Models.csproj": {
+              "projectPath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Models\\Ikari.Data.Models.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MKRl4e1u9DVTquxQCuBAk9XXK3HnHBdpyy4E07S2xJcQT4+I5vp5RcYOiP3qXEv+CegE5YkNaCXQ9XIHhS0Fqg==",
+  "dgSpecHash": "hx8qXE0c4HO0QMhTlicbDcfaznm7bz8fsiTgTixPvWFQDbFhEwn8TkUni+D+2Fs/W8Lazi/qbVBVWMXhg7+yag==",
   "success": true,
-  "projectFilePath": "B:\\WorkShop\\ikari\\Ikari.Data.Models\\Ikari.Data.Models.csproj",
+  "projectFilePath": "B:\\WorkShop\\Ikari_\\Ikari.Data.Models\\Ikari.Data.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zabig\\.nuget\\packages\\devextreme.aspnet.data\\2.9.0\\devextreme.aspnet.data.2.9.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

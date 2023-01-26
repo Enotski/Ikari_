@@ -10,3 +10,15 @@ B:\WorkShop\ikari\Ikari.Data.Models\obj\Debug\net7.0\Ikari.Data.Models.dll
 B:\WorkShop\ikari\Ikari.Data.Models\obj\Debug\net7.0\refint\Ikari.Data.Models.dll
 B:\WorkShop\ikari\Ikari.Data.Models\obj\Debug\net7.0\Ikari.Data.Models.pdb
 B:\WorkShop\ikari\Ikari.Data.Models\obj\Debug\net7.0\ref\Ikari.Data.Models.dll
+B:\WorkShop\Ikari_\Ikari.Data.Models\bin\Debug\net7.0\Ikari.Data.Models.deps.json
+B:\WorkShop\Ikari_\Ikari.Data.Models\bin\Debug\net7.0\Ikari.Data.Models.dll
+B:\WorkShop\Ikari_\Ikari.Data.Models\bin\Debug\net7.0\Ikari.Data.Models.pdb
+B:\WorkShop\Ikari_\Ikari.Data.Models\obj\Debug\net7.0\Ikari.Data.Models.csproj.AssemblyReference.cache
+B:\WorkShop\Ikari_\Ikari.Data.Models\obj\Debug\net7.0\Ikari.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+B:\WorkShop\Ikari_\Ikari.Data.Models\obj\Debug\net7.0\Ikari.Data.Models.AssemblyInfoInputs.cache
+B:\WorkShop\Ikari_\Ikari.Data.Models\obj\Debug\net7.0\Ikari.Data.Models.AssemblyInfo.cs
+B:\WorkShop\Ikari_\Ikari.Data.Models\obj\Debug\net7.0\Ikari.Data.Models.csproj.CoreCompileInputs.cache
+B:\WorkShop\Ikari_\Ikari.Data.Models\obj\Debug\net7.0\Ikari.Data.Models.dll
+B:\WorkShop\Ikari_\Ikari.Data.Models\obj\Debug\net7.0\refint\Ikari.Data.Models.dll
+B:\WorkShop\Ikari_\Ikari.Data.Models\obj\Debug\net7.0\Ikari.Data.Models.pdb
+B:\WorkShop\Ikari_\Ikari.Data.Models\obj\Debug\net7.0\ref\Ikari.Data.Models.dll

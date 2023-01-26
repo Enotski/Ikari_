@@ -12,7 +12,7 @@ build_property.RootNamespace = Ikari
 build_property.ProjectDir = B:\WorkShop\Ikari_\Ikari_prj\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = B:\WorkShop\Ikari_\Ikari_prj
 build_property._RazorSourceGeneratorDebug = 
 

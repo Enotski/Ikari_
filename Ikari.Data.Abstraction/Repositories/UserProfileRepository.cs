@@ -23,7 +23,7 @@ namespace Ikari.Data.Abstraction.Repositories {
                 Id = item.Id,
                 Login = item.Login,
                 Email = item.Email,
-                Balance = item.Balance,
+                //Balance = item.Balance,
                 Role = new RoleViewModel { Id = item.RoleId.GetValueOrDefault(), Name = item.Role.Name, Type = RoleType.Admin}
             };
         };
@@ -36,7 +36,7 @@ namespace Ikari.Data.Abstraction.Repositories {
         };
         public UserViewModel GetUserViewModel(Guid userId) {
             try {
-                var user = DbContext.Users.FirstOrDefault(x => x.Id == userId);
+                var user = DbContext.Users.Include(u => u.Role).FirstOrDefault(x => x.Id == userId);
                 if (user == null)
                     return new UserViewModel();
                 return UserToViewModel(user); 
@@ -46,6 +46,7 @@ namespace Ikari.Data.Abstraction.Repositories {
         }
         public UserViewModel GetUserViewModel(string login, string pass) {
             try {
+                var users = DbContext.Users.ToList();
                 var user = DbContext.Users.Include(u => u.Role).FirstOrDefault(x => x.Login == login && x.Password == pass);
                 if (user == null)
                     return new UserViewModel();
