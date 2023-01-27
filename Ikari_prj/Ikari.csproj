@@ -12,6 +12,10 @@
     <None Remove="Views\Shared\_Layout.cshtml~RFc0fd440.TMP" />
   </ItemGroup>
 
+	<Target Name="Parcel" BeforeTargets="Build">
+		<Exec Command="npm run build" />
+	</Target>
+	
   <ItemGroup>
     <Folder Include="wwwroot\css\mdi\" />
     <Folder Include="wwwroot\js\dx\" />

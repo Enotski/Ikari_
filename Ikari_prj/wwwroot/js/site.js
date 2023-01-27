@@ -36,9 +36,7 @@ const BaseApp = {
 	mounted() {
 		this.getUserInfo();
 
-		notify({
-			title: "Vue 3 notification 🎉",
-		})
+		this.$notify("Hello user!");
 	},
 	methods: {
 		getUserInfo: function () {

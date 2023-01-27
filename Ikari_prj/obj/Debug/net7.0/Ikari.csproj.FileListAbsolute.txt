@@ -407,3 +407,5 @@ B:\WorkShop\Ikari_\Ikari_prj\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.r
 B:\WorkShop\Ikari_\Ikari_prj\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 B:\WorkShop\Ikari_\Ikari_prj\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 B:\WorkShop\Ikari_\Ikari_prj\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\WorkShop\Ikari_\Ikari_prj\bin\Debug\net7.0\package.json
+B:\WorkShop\Ikari_\Ikari_prj\bin\Debug\net7.0\package-lock.json
